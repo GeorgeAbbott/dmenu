@@ -1,0 +1,8 @@
+dmenu.o
+stest.o
+stest
+util.o
+drw.o
+dmenu
+config.h
+.ccls-cache/
